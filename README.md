@@ -27,9 +27,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create and deploy a Windows VM
 - Download osTicket Installation files
 - Extract files into a new dicectory
-- Item 5
-- tem 5
-- Item 5
+- Install software and dependencies
+- Item 6
+- Item 7
 
 <h2>Installation Steps</h2>
 
@@ -110,11 +110,18 @@ Here I added a little personalization to the web page with a marquee and welcome
 <p>
 Installation of software and other dependencies
 </p>
+<p> <img width="1435" alt="Screen Shot 2025-04-22 at 11 00 25 PM" src="https://github.com/user-attachments/assets/2d8840dd-56b6-4186-8b1a-af08c46a5714"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> <img width="1435" alt="Screen Shot 2025-04-22 at 11 01 56 PM" src="https://github.com/user-attachments/assets/b9fa5281-2f11-4af9-b010-a438daec2972"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> <img width="1435" alt="Screen Shot 2025-04-22 at 11 10 27 PM" src="https://github.com/user-attachments/assets/dd28bd1d-6716-4f7c-b1d3-a774b9e06134"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <br />
-<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> <img width="1435" alt="Screen Shot 2025-04-22 at 11 11 48 PM" src="https://github.com/user-attachments/assets/6e82a6a3-3405-4efa-95a9-11e53023f2b6"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created a new PHP directory on C/ drive and extracted the PHP management files
 </p>
 <br />
 
