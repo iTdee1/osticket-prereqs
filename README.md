@@ -82,23 +82,33 @@ Extract files into a new dicectory
 Photo of loopback before web server installation and configuration
 </p>
 <br />
-<p> <img width="1435" alt="Screen Shot 2025-04-22 at 10 22 35 PM" src="https://github.com/user-attachments/assets/d14b23d9-80b4-447f-8d29-8af52385f21c"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="1440" alt="Screen Shot 2025-04-22 at 10 27 28 PM" src="https://github.com/user-attachments/assets/365e8572-55d2-454f-b557-314d85d16e85"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Web server  and IIS installed and configured
 </p>
+<p> <img width="1435" alt="Screen Shot 2025-04-22 at 10 22 35 PM" src="https://github.com/user-attachments/assets/d14b23d9-80b4-447f-8d29-8af52385f21c"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <p> <img width="1440" alt="Screen Shot 2025-04-22 at 10 27 10 PM" src="https://github.com/user-attachments/assets/d7125583-1cf6-4d4f-93fb-66190dfc1144"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> <img width="1435" alt="Screen Shot 2025-04-22 at 10 51 15 PM" src="https://github.com/user-attachments/assets/e820d12d-7079-4c48-8d87-d7bc98b53f16"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Photo of loopback with web server installed and configured
+</p>
+<p><img width="1435" alt="Screen Shot 2025-04-23 at 3 44 22 PM" src="https://github.com/user-attachments/assets/8eb8e6a1-e7cf-4d14-a677-607f98432f9a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p><img width="1435" alt="Screen Shot 2025-04-22 at 10 57 16 PM" src="https://github.com/user-attachments/assets/0e5e5bab-ea96-4e03-9b8f-b1e700854791"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here I added a little personalization to the web page with a marquee and welcome note.
 </p>
 <br />
-<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> <img width="1435" alt="Screen Shot 2025-04-22 at 11 00 07 PM" src="https://github.com/user-attachments/assets/2d5de63a-220b-4670-a953-fab3836325d9"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installation of software and other dependencies
 </p>
 <br />
 <p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
