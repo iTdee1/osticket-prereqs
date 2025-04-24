@@ -26,7 +26,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create a resource group
 - Create and deploy a Windows VM
 - Download osTicket Installation files
-- Item 4
+- Extract files into a new dicectory
+- Item 5
+- tem 5
 - Item 5
 
 <h2>Installation Steps</h2>
@@ -68,22 +70,23 @@ step 5
 Download
 </p>
 <br />
-<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> <img width="1440" alt="Screen Shot 2025-04-22 at 10 14 49 PM" src="https://github.com/user-attachments/assets/fa3c9aa0-8747-4eaa-bf8a-7d2463f4a993"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Extract files into a new dicectory
 </p>
 <br />
-<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="1440" alt="Screen Shot 2025-04-22 at 10 21 26 PM" src="https://github.com/user-attachments/assets/c61e055f-a487-45fe-b267-3c3b6aeef8c3"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Photo of loopback before web server installation and configuration
 </p>
 <br />
-<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> <img width="1435" alt="Screen Shot 2025-04-22 at 10 22 35 PM" src="https://github.com/user-attachments/assets/d14b23d9-80b4-447f-8d29-8af52385f21c"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>Web server  and IIS installed and configured
+</p>
+<p> <img width="1440" alt="Screen Shot 2025-04-22 at 10 27 10 PM" src="https://github.com/user-attachments/assets/d7125583-1cf6-4d4f-93fb-66190dfc1144"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
