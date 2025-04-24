@@ -23,9 +23,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- Create a resource group
+- Create and deploy a Windows VM
+- Download osTicket Installation files
 - Item 4
 - Item 5
 
@@ -35,16 +35,82 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+create
 </p>
 <br /> 
 <p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 07 45 PM" src="https://github.com/user-attachments/assets/0ffe058a-ce91-42ca-9c52-f8a98dbca881"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+step2
+</p>
+<br />
+<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+steps 3
+</p>
+<br />
+<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 14 01 PM" src="https://github.com/user-attachments/assets/1b2902da-8434-45cb-a9ea-59637b27bcb8"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+step 4
+</p>
+<br />
+<p> <img width="1435" alt="Screen Shot 2025-04-22 at 9 46 29 PM" src="https://github.com/user-attachments/assets/2ae3a5a5-39d5-42b8-8580-538b3626a06a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+step 5
+</p>
+<br />
+<p> <img width="1435" alt="Screen Shot 2025-04-22 at 10 10 55 PM" src="https://github.com/user-attachments/assets/583f0bcc-1208-47d9-9d02-18d844066ac4"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download
+</p>
+<br />
+<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 08 52 PM" src="https://github.com/user-attachments/assets/df8677d3-96e6-4688-98d8-11c5e656977a"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
+<p> <img width="1435" alt="Screen Shot 2025-04-19 at 8 12 49 PM" src="https://github.com/user-attachments/assets/f3f5bcde-3bfa-490f-a7e4-28194418c233"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br /> 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
