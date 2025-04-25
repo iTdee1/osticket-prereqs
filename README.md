@@ -127,6 +127,11 @@ Created a new PHP directory on C/ drive and extracted the PHP management files i
 
 <p><img width="1435" alt="Screen Shot 2025-04-22 at 11 13 22 PM" src="https://github.com/user-attachments/assets/41e08c44-6b16-4164-80a2-8cf8947b0b1d"height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img width="1435" alt="Screen Shot 2025-04-22 at 11 14 07 PM" src="https://github.com/user-attachments/assets/4f5bafde-c85c-464e-82cf-f045a87f3336" />
+  <img width="1435" alt="Screen Shot 2025-04-22 at 11 16 34 PM" src="https://github.com/user-attachments/assets/a6c30ff3-d969-4d27-b23f-139c0236d931" /> Configuration of MySql database
+  *
+  *
+  *
+
 </p>
 
 <p>
@@ -134,62 +139,63 @@ Installation of MySQL and HediSql
 </p>
 <br /> 
 
-<p> * <img width="1435" alt="Screen Shot 2025-04-22 at 11 11 48 PM" src="https://github.com/user-attachments/assets/6e82a6a3-3405-4efa-95a9-11e53023f2b6"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> * <img width="1435" alt="Screen Shot 2025-04-22 at 11 35 04 PM" src="https://github.com/user-attachments/assets/54458991-2e56-4ed1-94ac-372a746f02c5"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
-Created a new PHP directory on C/ drive and extracted the PHP management files into the new directory
+*******************************************Description and purpose to be added************************************************
 </p>
 <br /><p> * <img width="1435" alt="Screen Shot 2025-04-22 at 11 11 48 PM" src="https://github.com/user-attachments/assets/6e82a6a3-3405-4efa-95a9-11e53023f2b6"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a new PHP directory on C/ drive and extracted the PHP management files into the new directory
+*******************************************Description and purpose to be added************************************************y
 </p>
 <br /><p> * <img width="1435" alt="Screen Shot 2025-04-22 at 11 11 48 PM" src="https://github.com/user-attachments/assets/6e82a6a3-3405-4efa-95a9-11e53023f2b6"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a new PHP directory on C/ drive and extracted the PHP management files into the new directory
+*******************************************Description and purpose to be added************************************************
 </p>
 <br /><p> * <img width="1435" alt="Screen Shot 2025-04-22 at 11 11 48 PM" src="https://github.com/user-attachments/assets/6e82a6a3-3405-4efa-95a9-11e53023f2b6"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a new PHP directory on C/ drive and extracted the PHP management files into the new directory
+*******************************************Description and purpose to be added************************************************
 </p>
 <br /><p> * <img width="1435" alt="Screen Shot 2025-04-22 at 11 11 48 PM" src="https://github.com/user-attachments/assets/6e82a6a3-3405-4efa-95a9-11e53023f2b6"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a new PHP directory on C/ drive and extracted the PHP management files into the new directory
+*******************************************Description and purpose to be added************************************************
 </p>
 <br /><p> * <img width="1435" alt="Screen Shot 2025-04-22 at 11 11 48 PM" src="https://github.com/user-attachments/assets/6e82a6a3-3405-4efa-95a9-11e53023f2b6"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a new PHP directory on C/ drive and extracted the PHP management files into the new directory
+*******************************************Description and purpose to be added************************************************
 </p>
 <br /><p> * <img width="1435" alt="Screen Shot 2025-04-22 at 11 11 48 PM" src="https://github.com/user-attachments/assets/6e82a6a3-3405-4efa-95a9-11e53023f2b6"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a new PHP directory on C/ drive and extracted the PHP management files into the new directory
+*******************************************Description and purpose to be added************************************************
 </p>
 <br /><p> * <img width="1435" alt="Screen Shot 2025-04-22 at 11 11 48 PM" src="https://github.com/user-attachments/assets/6e82a6a3-3405-4efa-95a9-11e53023f2b6"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a new PHP directory on C/ drive and extracted the PHP management files into the new directory
+*******************************************Description and purpose to be added************************************************
 </p>
 <br /><p> * <img width="1435" alt="Screen Shot 2025-04-22 at 11 11 48 PM" src="https://github.com/user-attachments/assets/6e82a6a3-3405-4efa-95a9-11e53023f2b6"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a new PHP directory on C/ drive and extracted the PHP management files into the new directory
+*******************************************Description and purpose to be added************************************************
 </p>
 <br /><p> * <img width="1435" alt="Screen Shot 2025-04-22 at 11 11 48 PM" src="https://github.com/user-attachments/assets/6e82a6a3-3405-4efa-95a9-11e53023f2b6"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a new PHP directory on C/ drive and extracted the PHP management files into the new directory
+*******************************************Description and purpose to be added************************************************
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+*******************************************Description and purpose to be added************************************************
 </p>
 <br />
 
