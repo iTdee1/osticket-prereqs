@@ -32,6 +32,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 7
 
 <h2>Installation Steps</h2>
+<h3>Create an Azure Virtual Machine</h3>
+   - Purpose Set up a virtual machine (VM) in the Azure cloud environment to host the osTicket application.
+   <h4>Details:</h4>
+   <p> - VM named **osticket-vm** is created with Windows 10 and 4 virtual CPUs for performance.
+     - A username and password configuredare set for access.
+     - Remote Desktop is used to connect to the VM for further configurations. 
+- Item 6
+- Item 7 </p> 
+
 
 <p> <img width="1435" alt="1 step" src="https://github.com/user-attachments/assets/0471d9a6-d601-44dd-8e59-b3f5f1b3eee3"
 height="80%" width="80%" alt="Disk Sanitization Steps"/>
